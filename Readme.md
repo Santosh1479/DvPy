@@ -1,0 +1,1 @@
+Repo is to just learn Data Science this repo contains my journey :)
